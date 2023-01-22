@@ -1,0 +1,12 @@
+/* global */
+
+@import url('./global/normalize.css');
+@import url('./global/font.css');
+@import url('./global/variables.css');
+@import url('./global/global.css');
+
+/* blocks */
+
+@import url('./blocks/');
+/* @import url('./blocks/'); */
+/* @import url('./blocks/'); */
