@@ -7,6 +7,9 @@
 
 /* blocks */
 
-@import url('./blocks/');
-/* @import url('./blocks/'); */
+@import url('./blocks/page.css');
+@import url('./blocks/page-header.css');
+@import url('./blocks/page-main.css');
+@import url('./blocks/advantages.css');
+@import url('./blocks/main-footer.css');
 /* @import url('./blocks/'); */

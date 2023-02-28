@@ -1,0 +1,8 @@
+.page__body {
+    margin: 0 auto;
+    max-width: 1440px;
+    padding: 0 197px 0 197px;
+    background-color: var(--dark-background-color);
+    background-image: url('../../images/shape.png');
+    background-repeat: no-repeat;
+}
